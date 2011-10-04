@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" media="screen" href="/media/style.css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" >
+<id></id>
+<updated>test</updated>
+<title type="text">Blog Title Here</title>
+<subtitle type="html">Blog Subtitle Here</subtitle>
+<link href="http://YOUR-DOMAIN/atom.xml" rel="self" />
+<link href="http://YOUR-DOMAIN" />
+<author>
+  <name>Your Name Here</name>
+  <email>Your Email Here</email>
+</author>
+
+  
+  <entry>
+    <title>
+      Article One
+    </title>
+    <link>
+      <link href="article_one.xml" rel="self" />
+    </link>
+    <link rel="self" type="application/atom+xml" href="article_one.xml" />
+    <link rel="alternate" type="text/html" href="article_one.html" title="Article One" />
+    <author>
+      <name>Your Name Here</name>
+      <email>Your Email Here</email>
+    </author>
+    <id>article_one.xml</id>
+    <updated>
+      Sat Jul 11 2009 12:43:50 GMT-0500 (CDT)
+    </updated>
+          <category term="monkeys"></category>
+          <category term="penguins"></category>
+        <content type="html">
+      
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+    </content>
+  </entry>
+
+  
+  <entry>
+    <title>
+      Article Three
+    </title>
+    <link>
+      <link href="fold2/article_three.xml" rel="self" />
+    </link>
+    <link rel="self" type="application/atom+xml" href="fold2/article_three.xml" />
+    <link rel="alternate" type="text/html" href="fold2/article_three.html" title="Article Three" />
+    <author>
+      <name>Your Name Here</name>
+      <email>Your Email Here</email>
+    </author>
+    <id>fold2/article_three.xml</id>
+    <updated>
+      Thu Apr 29 2010 14:00:00 GMT-0500 (CDT)
+    </updated>
+          <category term="monkeys"></category>
+          <category term="elephants"></category>
+          <category term="penguins"></category>
+        <content type="html">
+      
+
+&lt;p&gt;&lt;em&gt;Italic&lt;/em&gt;, Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bold text&lt;/strong&gt;: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat.&lt;/p&gt;
+    </content>
+  </entry>
+
+  
+  <entry>
+    <title>
+      Article Two
+    </title>
+    <link>
+      <link href="fold1/article_two.xml" rel="self" />
+    </link>
+    <link rel="self" type="application/atom+xml" href="fold1/article_two.xml" />
+    <link rel="alternate" type="text/html" href="fold1/article_two.html" title="Article Two" />
+    <author>
+      <name>Your Name Here</name>
+      <email>Your Email Here</email>
+    </author>
+    <id>fold1/article_two.xml</id>
+    <updated>
+      Thu Apr 29 2010 12:00:00 GMT-0500 (CDT)
+    </updated>
+          <category term="monkeys"></category>
+          <category term="ducks"></category>
+        <content type="html">
+      
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+    </content>
+  </entry>
+
+
+</feed>
