@@ -14,9 +14,7 @@
                 <h2><a href="{url}">{heading}</a></h2>
 		<div class="articleDate">
 		  <b>
-		    {weekday}, 
-		    {month} {day}, 
-		    {year}
+		    {filename}
 		  </b>
 		</div>
                 {first_paragraph}

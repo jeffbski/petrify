@@ -1,4 +1,3 @@
-date: Thu, 29 Apr 2010 18:00:00 +0100
 tags: monkeys, ducks
 
 # Article Two

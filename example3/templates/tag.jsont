@@ -11,7 +11,7 @@
             <h1>{name}</h1> 
             <ul class="articles">
             {.repeated section articles}
-                <li><a href="{url}">{heading}</a></li>
+                <li><a href="{url}">{heading}</a> - {filename}</li>
             {.end}
             </ul>
         </div>

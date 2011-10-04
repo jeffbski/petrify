@@ -46,12 +46,7 @@ function relativePathToTop(relFilename){
     // parse meta data - this updates the context.data in-place, so
     // other views can make use of these changes
     context.data = context.data.map(function(x){
-        x.tags = x.metadata.tags.split(', ');
-        x.date = new Date(x.metadata.date);
-	x.weekday = DOW[x.date.getUTCDay()];
-	x.month = MOY[x.date.getUTCMonth()];
-	x.day = x.date.getUTCDate();
-	x.year = x.date.getUTCFullYear();
+        x.tags = (x.metadata.tags) ? x.metadata.tags.split(', ') : [];
         x.url = x.filename.replace(/\.md$/, '.html');
 	x.xmlurl = x.filename.replace(/\.md$/, '.xml');
         x.assets_url_prefix = relativePathToTop(x.filename);

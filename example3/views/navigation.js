@@ -21,7 +21,7 @@ exports.run = function(view, context){
 
     // extract a unique list of tags from the data
     partials.tags = unique(context.data.reduce(function(a, d){
-        return a.concat(d.metadata.tags.split(', '));
+        return a.concat((d.metadata.tags) ? d.metadata.tags.split(', ') : []);
     }, [])).sort(compareString);
 
     // render the naviagtion template and store in context.partials for later

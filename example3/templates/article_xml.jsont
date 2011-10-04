@@ -14,9 +14,6 @@
       <email>Your Email Here</email>
     </author>
     <id>{xmlurl}</id>
-    <updated>
-      {date}
-    </updated>
     {.repeated section tags}
       <category term="{@}"></category>
     {.end}

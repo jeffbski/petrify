@@ -1,4 +1,3 @@
-date: Thu, 29 Apr 2010 20:00:00 +0100
 tags: monkeys, elephants, penguins
 
 # Article Three
