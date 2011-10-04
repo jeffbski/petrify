@@ -52,3 +52,10 @@ Then, cd to the examples directory and run the build script. This will create
 a www directory with a bunch of HTML files inside. Voila! you've just generated
 your first site. For now, the example site and the files in the doc directory
 will have to be enough to get you started.
+
+
+## Changes from original caolan/petrify
+
+ - Fix issue with tag pages not being created
+ - Add example2 with blog articles in folders
+ - Add example3 with markdown documentation in folders, could be used for documentation
