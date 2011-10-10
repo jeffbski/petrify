@@ -19,7 +19,7 @@
     "async" : "~0.1.2",
     "behaviors" : "https://github.com/jeffbski/behaviors/tarball/master",
     "json-template" : "https://github.com/jeffbski/json-template/tarball/master",
-    "jsdom" : "https://github.com/tmpvar/jsdom/tarball/0.1.16",
+    "jsdom" : "https://github.com/tmpvar/jsdom/tarball/0.2.7",
     "wmd" : "https://github.com/jeffbski/wmd/tarball/master"
   },
   "devDependencies": {}
