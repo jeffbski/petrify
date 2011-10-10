@@ -17,7 +17,7 @@
   "dependencies": {
     "markdown-js" : "https://github.com/evilstreak/markdown-js/tarball/v0.1.2",
     "async" : "~0.1.2",
-    "behaviours" : "https://github.com/caolan/behaviors/tarball/master",
+    "behaviours" : "https://github.com/jeffbski/behaviors/tarball/master",
     "json-template" : "",
     "jsdom" : "https://github.com/tmpvar/jsdom/tarball/0.1.16",
     "wmd" : "https://github.com/jeffbski/wmd/tarball/master"
