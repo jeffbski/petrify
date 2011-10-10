@@ -43,6 +43,11 @@ _A simple and flexible static site generator for node.js_
 ## Getting started
 
 First, install the latest version of [node.js](http://nodejs.org/#download).
+
+    npm install https://github.com/jeffbski/petrify/tarball/master
+
+OR
+
 Petrify uses git submodules for the rest of its dependencies. Once you've
 cloned the repository, do:
 
