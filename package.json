@@ -1,0 +1,26 @@
+{
+  "name": "petrify",
+  "description": "Petrify - static web generator",
+  "version": "0.0.1",
+  "private": true,
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffbski/petrify.git"
+  },
+  "main": "lib/buildrunner.js",
+  "scripts": {
+    "test": "app/test.js"
+  },
+  "engines": {
+    "node": "0.4"
+  },
+  "dependencies": {
+    "markdown-js" : "https://github.com/evilstreak/markdown-js/tarball/v0.1.2",
+    "async" : "~0.1.2",
+    "behaviours" : "https://github.com/caolan/behaviors/tarball/master",
+    "json-template" : "",
+    "jsdom" : "https://github.com/tmpvar/jsdom/tarball/0.1.16",
+    "wmd" : "https://github.com/jeffbski/wmd/tarball/master"
+  },
+  "devDependencies": {}
+}
