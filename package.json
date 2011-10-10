@@ -9,7 +9,7 @@
   },
   "main": "lib/buildrunner.js",
   "scripts": {
-    "test": "app/test.js"
+    "buildrunner": "lib/buildrunner.js"
   },
   "engines": {
     "node": "0.4"
