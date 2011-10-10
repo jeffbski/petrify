@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/jeffbski/petrify.git"
   },
-  "main": "lib/buildrunner.js",
+  "main": "lib/petrify.js",
   "scripts": {
     "buildrunner": "lib/buildrunner.js"
   },
