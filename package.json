@@ -15,7 +15,7 @@
     "node": "0.4"
   },
   "dependencies": {
-    "markdown-js" : "https://github.com/jeffbski/markdown-js/tarball/v0.1.2",
+    "markdown-js" : "https://github.com/jeffbski/markdown-js/tarball/master",
     "async" : "~0.1.2",
     "behaviors" : "https://github.com/jeffbski/behaviors/tarball/master",
     "json-template" : "https://github.com/jeffbski/json-template/tarball/master",
