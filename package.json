@@ -1,7 +1,7 @@
 {
   "name": "petrify",
   "description": "Petrify - static web generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
    "repository": {
     "type": "git",
@@ -20,7 +20,8 @@
     "behaviors" : "https://github.com/jeffbski/behaviors/tarball/master",
     "json-template" : "https://github.com/jeffbski/json-template/tarball/master",
     "jsdom" : "~0.2.7",
-    "wmd" : "https://github.com/jeffbski/wmd/tarball/master"
+    "wmd" : "https://github.com/jeffbski/wmd/tarball/master",
+    "findit" : "~0.1.1"
   },
   "devDependencies": {}
 }
