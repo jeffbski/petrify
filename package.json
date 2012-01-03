@@ -21,7 +21,7 @@
     "json-template" : "https://github.com/jeffbski/json-template/tarball/master",
     "jsdom" : "~0.2.7",
     "wmd" : "https://github.com/jeffbski/wmd/tarball/master",
-    "findit" : "~0.1.1"
+    "findit" : "~0.1.2"
   },
   "devDependencies": {}
 }
