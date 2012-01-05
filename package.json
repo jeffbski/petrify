@@ -1,7 +1,7 @@
 {
   "name": "petrify",
   "description": "Petrify - static web generator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
    "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
     "buildrunner": "lib/buildrunner.js"
   },
   "engines": {
-    "node": "0.4"
+    "node": "*"
   },
   "dependencies": {
     "markdown-js" : "https://github.com/jeffbski/markdown-js/tarball/master",
