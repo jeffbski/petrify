@@ -1,4 +1,7 @@
+node_modules
+npm-debug.log
 example/www
 example2/www
 example3/www
+example3/data
 .DS_Store
