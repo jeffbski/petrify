@@ -16,12 +16,12 @@
   },
   "dependencies": {
     "markdown-js" : "https://github.com/jeffbski/markdown-js/tarball/master",
-    "async" : "~0.1.2",
+    "async" : "~0.1.22",
     "behaviors" : "https://github.com/jeffbski/behaviors/tarball/master",
     "json-template" : "https://github.com/jeffbski/json-template/tarball/master",
-    "jsdom" : "~0.2.7",
+    "jsdom" : "~0.2.15",
     "wmd" : "https://github.com/jeffbski/wmd/tarball/master",
-    "findit" : "~0.1.2",
+    "findit" : "https://github.com/jeffbski/node-findit/tarball/master",
     "htmlparser": "https://github.com/cjohansen/node-htmlparser/tarball/master"
   },
   "devDependencies": {}

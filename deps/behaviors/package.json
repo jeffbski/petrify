@@ -1,0 +1,32 @@
+{
+  "name": "behaviors",
+  "description": "Behaviors - A (really) simple way to check a modules export's in node.js. Inspired by behaviors in Erlang.",
+  "version": "0.0.2",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeffbski/behaviors.git"
+  },
+  "main": "lib/behaviors.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "nodeunit": "~0.5.5"
+  },
+  "devDependencies": {},
+  "_npmUser": {
+    "name": "jeffbski",
+    "email": "jeff.barczewski@gmail.com"
+  },
+  "_id": "behaviors@0.0.2",
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.12",
+  "_nodeVersion": "v0.8.8",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "82d830b2aba37bed145bb3481689b2dc09e634e5"
+  },
+  "_from": "behaviors@https://github.com/jeffbski/behaviors/tarball/master"
+}
